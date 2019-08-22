@@ -5,7 +5,7 @@ about: Suggest an idea for this project
 ---
 ## Redirect Alert!
 
-Please Submit your feature request via the [Chef Ideas Portal](https://chef-software.ideas.aha.io/)
+Please submit your feature request via the [Chef Ideas Portal](https://chef-software.ideas.aha.io/)
 
 ## What is a feature request?
 
