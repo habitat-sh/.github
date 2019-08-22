@@ -1,2 +1,2 @@
 # .github
-Habitat org GitHub default files
+Habitat Org Community Health files
